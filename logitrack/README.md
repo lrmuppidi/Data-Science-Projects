@@ -65,6 +65,3 @@ Write each finding as **Observation -> Interpretation -> Business Impact** using
 - Business impact: prioritise on-time delivery for customer retention.
 
 Where to look: success rate (Q1), worst routes (Q2), seasonality (Q5, EDA), experience vs performance (Q9, Test 4), vehicles (Q6), warehouses (Q4), outliers (Test 5).
-
-## GitHub
-`.gitignore` excludes `data/`, `*.db` and `.env`, so datasets and credentials are not uploaded.
